@@ -1,4 +1,4 @@
-[![typograssy](https://typograssy.deno.dev/api?text=じゃーごんあるごん)](https://github.com/kawarimidoll/typograssy)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Jargon%20Argon&fontSize=50)
 
 - 🌱 I’m currently learning:
   - 🌐 Networking
