@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jargon%20Argon&fontSize=50&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=jargonargon&fontSize=50&animation=fadeIn)
 
 ### 🌱 I’m currently learning:
 🌐 Networking &emsp;  &emsp; ⇄ Protocol  &emsp;  &emsp;  🔐 Security & Privacy &emsp;  &emsp; 🧮 Machine Learning &emsp; &emsp; 🇬🇧 English
