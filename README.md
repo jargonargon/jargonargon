@@ -11,4 +11,4 @@
 > [!TIP]
 > argon means "lazy"
 
-[▶researchmap]https://researchmap.jp/t-suimon
+[▶researchmap](https://researchmap.jp/t-suimon)
