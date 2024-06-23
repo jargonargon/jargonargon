@@ -4,7 +4,7 @@
 🌐 Networking &emsp;  &emsp; ⇄ Protocol  &emsp;  &emsp;  🔐 Security & Privacy &emsp;  &emsp; 🧮 Machine Learning &emsp; &emsp; 🇬🇧 English
 
 ### 🎉 My Pastime
-📚 Reading &emsp; &emsp;  🏴󠁧󠁢󠁥󠁮󠁧󠁿⚽ Football &emsp; &emsp; 🎸 Music &emsp; &emsp; 🎮 Game (pazzle, JRPG) &emsp; &emsp; 🚞🛩️ Trip
+📚 Reading &emsp; &emsp;  🏴󠁧󠁢󠁥󠁮󠁧󠁿⚽ Football &emsp; &emsp; 🇬🇧🎸 Music (UK Rock) &emsp; &emsp; 🎮 Game (pazzle, JRPG) &emsp; &emsp; 🚞🛩️ Trip
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jargonargon&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/jargonargon/github-readme-stats)
 
