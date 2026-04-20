@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=jargonargon&fontSize=50&animation=fadeIn)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=800&pause=3000&color=E2F72E&width=435&lines=jargonargon;a+lazy+sheep+thinks+its+wool+heavy)](https://git.io/typing-svg)
 
 ### 🌱 I’m currently learning:
 🌐 Networking &emsp;  &emsp; ⇄ Protocol  &emsp;  &emsp;  🔐 Security & Privacy &emsp;  &emsp; 🧮 Machine Learning &emsp; &emsp; 🇬🇧 English
