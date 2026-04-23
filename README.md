@@ -6,7 +6,7 @@
 ### 🎉 My Pastime
 📚 Reading &emsp; &emsp;  🏴󠁧󠁢󠁥󠁮󠁧󠁿⚽ Football &emsp; &emsp; 🇬🇧🎸 Music (UK Rock) &emsp; &emsp; 🎮 Game (pazzle, JRPG) &emsp; &emsp; 🚞🛩️ Trip
 
-[![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jargonargon&layout=compact)]
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jargonargon&layout=compact)
 
 
 > [!TIP]
